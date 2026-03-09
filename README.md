@@ -1,23 +1,61 @@
-# Hi there, I'm Rawan Mohammed
+<p align="center">
+  <img src="https://github.com/rawanmohammed22/rawanmohammed22/blob/main/github_profile_banner.png?raw=true" alt="Rawan Mohammed Banner" width="100%">
+</p>
 
-A passionate Full Stack Developer with a focus on writing clean, maintainable code and building robust web applications. I enjoy architecting systems that are scalable, whether it's through .NET MVC or modern Python APIs.
+<h1 align="center">Hi there, I'm Rawan Mohammed 👋</h1>
 
-## Skills and Technologies
-- Languages: C#, Python, JavaScript (ES6+), HTML5/CSS3
-- Backend: ASP.NET (Core / MVC), FastAPI, RESTful APIs
-- Frontend: React.js, Vite
-- Architecture and Patterns: Clean Architecture, Repository Pattern, Dependency Injection
-- Database: SQL Server, PostgreSQL, Entity Framework, SQLAlchemy
-- Tools and DevOps: Docker, Git, Alembic
+<p align="center">
+  <strong>Full Stack Developer | AI Enthusiast | Clean Architecture Advocate</strong>
+</p>
 
-## Highlighted Projects
+<p align="center">
+  <a href="mailto:mohammedrawan653@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/rawanmohammed22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-- [fastapi-student-system](https://github.com/rawanmohammed22/fastapi-student-system) - A robust API utilizing layered architecture, Docker, and Cohere AI integration.
-- [task-management-system](https://github.com/rawanmohammed22/task-management-system) - An ASP.NET MVC application illustrating practical use of Clean Architecture.
-- [pharmacy-react-app](https://github.com/rawanmohammed22/pharmacy-react-app) - A frontend React application for browsing and managing pharmacy stock.
+---
 
-## My Coding Philosophy
-I strongly believe that good software engineering isn't just about making things work—it's about making them maintainable. I'm actively working on improving my skills in Automated Testing, CI/CD, and Advanced System Design.
+### About Me
+I am a passionate Full Stack Developer dedicated to writing clean, maintainable, and scalable code. I enjoy exploring complex system architectures and integrating AI solutions to solve real-world problems. Currently focusing on mastering Clean Architecture and DevOps practices.
 
-How to reach me: mohammedrawan653@gmail.com
-```
+- I am currently working on enhancing my FastAPI and ASP.NET Core projects.
+- I am currently learning Automated Testing and CI/CD Pipelines.
+- Ask me about C#, Python, and System Design.
+- Fun fact: I believe that code is like poetry.
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,js,react,vite,html,css,postgres,sqlserver,docker,git,github,postman&perline=8" />
+</p>
+
+---
+
+### Top Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[fastapi-student-system](https://github.com/rawanmohammed22/fastapi-student-system)** | AI-powered RESTful API with Layered Architecture. | FastAPI, Docker, Cohere AI |
+| **[task-management-system](https://github.com/rawanmohammed22/task-management-system)** | Full-stack PM tool using Clean Architecture. | ASP.NET Core, SQL Server |
+| **[pharmacy-react-app](https://github.com/rawanmohammed22/pharmacy-react-app)** | Modern React interface for pharmacy stock. | React, Vite, Context API |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rawanmohammed22&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmohammed22&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawanmohammed22&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keep_Coding-blue?style=for-the-badge&logo=github" alt="Footer Badge" />
+</p>
