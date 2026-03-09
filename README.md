@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rawanmohammed22/rawanmohammed22/blob/main/github_compact_banner.png?raw=true" alt="Rawan Mohammed Banner" width="100%">
+  <img src="https://github.com/rawanmohammed22/rawanmohammed22/blob/main/github_compact.png?raw=true" alt="Rawan Mohammed Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Rawan Mohammed 👋</h1>
