@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rawanmohammed22/rawanmohammed22/blob/main/github_profile_banner.png?raw=true" alt="Rawan Mohammed Banner" width="100%">
+  <img src="https://github.com/rawanmohammed22/rawanmohammed22/blob/main/github_banner_wide.png?raw=true" alt="Rawan Mohammed Banner" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Rawan Mohammed 👋</h1>
@@ -21,7 +21,6 @@ I am a passionate Full Stack Developer dedicated to writing clean, maintainable,
 - I am currently working on enhancing my FastAPI and ASP.NET Core projects.
 - I am currently learning Automated Testing and CI/CD Pipelines.
 - Ask me about C#, Python, and System Design.
-- Fun fact: I believe that code is like poetry.
 
 ---
 
@@ -48,10 +47,6 @@ I am a passionate Full Stack Developer dedicated to writing clean, maintainable,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rawanmohammed22&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawanmohammed22&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawanmohammed22&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
